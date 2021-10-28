@@ -16,3 +16,4 @@ Decentralized Exchanges well known as DEX are the perfect market to trade if you
 
 # Installation 
 
+<!--- pip install web3 --->
