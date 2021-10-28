@@ -16,9 +16,10 @@ Decentralized Exchanges well known as DEX are the perfect market to trade if you
 
 # Installation 
 
-```
-pip install web3
-```
+### Creation 
+* Create a Virtual Environment in Python (Pycharm, Anaconda, etc)
 
-
-<!--- pip install web3 --->
+* Install the dependencies 
+  ```
+  pip install -r requirements.txt
+  ```
