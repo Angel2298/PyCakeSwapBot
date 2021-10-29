@@ -20,9 +20,10 @@ Decentralized Exchanges well known as DEX are the perfect market to trade if you
 * Create a Virtual Environment in Python (Pycharm, Anaconda, etc)
 
 * Install C++ Dependencies
-```
-install C++ dependencies 2014+ 
-```
+  ```
+  install C++ dependencies 2014+ 
+  ```
+  You can do this by downloading Visual Studio Community Edition and after that select just the packages of the dependencies. 
 
 * Install the dependencies 
   ```
