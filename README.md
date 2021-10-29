@@ -29,3 +29,11 @@ Decentralized Exchanges well known as DEX are the perfect market to trade if you
   ```
   pip install -r NeedInstall.txt
   ```
+
+# Run the Bot 
+
+  1. Open the folder in your selected editor
+  2. Go to the folder:
+  ```
+  config_json.json
+  ```
