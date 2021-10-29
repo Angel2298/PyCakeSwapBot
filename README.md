@@ -37,3 +37,12 @@ Decentralized Exchanges well known as DEX are the perfect market to trade if you
   ```
   config_json.json
   ```
+  3. Enter your Public address and your Private Key in the given space. 
+     NOTE: You need to be sure that you get the correct file. Please Read the code and make sure you got the correct one. 
+  4. Fill the address of the token you want to work with, if not you will be asked when running the program.
+  5. Run the file:
+  ```
+  main.py
+  ```  
+  6. Follow the instructions inside the program. 
+  7. Enjoy and make profits :)
