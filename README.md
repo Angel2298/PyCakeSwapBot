@@ -19,7 +19,12 @@ Decentralized Exchanges well known as DEX are the perfect market to trade if you
 ### Creation 
 * Create a Virtual Environment in Python (Pycharm, Anaconda, etc)
 
+* Install C++ Dependencies
+```
+install C++ dependencies 2014+ 
+```
+
 * Install the dependencies 
   ```
-  pip install -r requirements.txt
+  pip install -r NeedInstall.txt
   ```
