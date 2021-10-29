@@ -25,7 +25,7 @@ Decentralized Exchanges well known as DEX are the perfect market to trade if you
   ```
   You can do this by downloading Visual Studio Community Edition and after that select just the packages of the dependencies. 
 
-* Install the dependencies 
+* Install the libraries 
   ```
   pip install -r NeedInstall.txt
   ```
